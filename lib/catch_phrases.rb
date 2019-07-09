@@ -1,1 +1,0 @@
-{mario}.to output("It's-a me, Mario!\n").to_stdout
